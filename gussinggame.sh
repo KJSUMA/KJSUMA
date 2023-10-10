@@ -22,4 +22,5 @@ while true; do
         break
     fi
 done
+bash guessinggame.sh
 
