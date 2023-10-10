@@ -7,3 +7,4 @@ README.md: guessinggame.sh
 clean:
 	rm README.md
 
+make
